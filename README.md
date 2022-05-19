@@ -1,4 +1,4 @@
 # Portfolio.MinHyeok
-1998.02.28/n
-email -whwhgurdl@gmail.com/n
-github - https://github.com/CHOMINHYEOK/n
+1998.02.28
+email -whwhgurdl@gmail.com
+github - https://github.com/CHOMINHYEOK
